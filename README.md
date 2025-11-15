@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me<br>Hi! I'm **Syed Mohammed Shadaab**, a **Java Full-Stack Developer** passionate about building scalable backend systems and clean, responsive front-end applications.<br><br>- 🔭 **Currently working on:** E-commerce Website (Spring Boot + Angular + MySQL)  <br>- 🌱 **Learning:** Docker, AWS  <br>- 💼 **Skills:** Java | Python | TypeScript | Spring Boot | Angular | MySQL | Generative AI | RAG  | Git<br>- 💡 **Interests:** Web Application Development, Cloud Computing, Generative AI  <br>- 🚀 **Goals:** Build production-ready full-stack applications integrated with Generative AI <br><br>- 📫 Reach me at: syedshadaab2@gmail.com
 
 
